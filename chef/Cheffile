@@ -1,0 +1,11 @@
+cookbooks/apt
+cookbooks/build-essential
+cookbooks/lighttpd
+cookbooks/mysql
+cookbooks/openssl
+cookbooks/php
+cookbooks/rbac
+cookbooks/smf
+cookbooks/test
+cookbooks/yum
+cookbooks/yum-mysql-community
